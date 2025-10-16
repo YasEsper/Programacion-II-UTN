@@ -2,21 +2,23 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
+package ejercicio_02.tp.intapoo;
 
-package ejercicio_2.tpintpoo;
-
-public class Mascota {
+public class Principal {
 
     public static void main(String[] args) {
         Mascota m = new Mascota();
+        m.nombre = "Yang";
+        m.especie = "Gato";
+        m.edad = 5;
 
-        m.nombre = "Luna";
-        m.especie = "Gata";
-        m.edad = 3;
+        System.out.println("Información inicial:");
+        m.mostrarInfo();
 
-        m.mostrarInformacion();
         m.cumplirAnios();
-        m.mostrarInformacion();
+
+        System.out.println("Edad cumpliendo años de la mascota:");
+        m.mostrarEdad();
 
     }
 

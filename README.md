@@ -5,11 +5,33 @@ Repositorio general de trabajos prácticos y ejercicios de la materia **Programa
 #  Estructura del repositorio
 
 - `01_Introduccion_a_Java/`  
-  Ejercicios iniciales: consola, variables, tipos de datos, estructuras básicas.  
-  Incluye documentación propia (`README.txt`) y ejemplos prácticos.
+  Ejercicios básicos: entrada/salida por consola, variables, tipos de datos, estructuras simples.
 
-- *(Próximas carpetas)*  
-  `02_programacion_Estructurada`, `03_Introduccion_a_POO`, `04_UML_Basico`, etc.
+- `02_Programacion_Estructurada/`  
+  Prácticas con estructuras de control, funciones, modularidad y lógica secuencial.
+
+- `03.Introduccion a POO/`  
+  Primeros pasos en Programación Orientada a Objetos: clases, atributos, métodos, instanciación.
+
+- `04.POO/`  
+  Aplicación de conceptos como `this`, constructores sobrecargados, métodos estáticos, `toString()` y encapsulamiento.
+
+- `05.UML_Basico/`  
+  Diagramas UML simples: clases, relaciones, atributos y métodos. Apoyo visual para modelado.
+
+- `6_Colecciones/`  
+  Uso de arrays, listas, mapas y estructuras dinámicas en Java.
+
+- `7_Herencias y polimorfismo/`  
+  Implementación de herencia, sobrescritura de métodos y polimorfismo dinámico.
+
+- `8_Interfaces y Excepciones/`  
+  Aplicación de interfaces, manejo de errores y excepciones controladas.
+
+---
+
+
+
 
 #  Objetivo
 

@@ -1,39 +1,53 @@
-# Introducción a Java – TP UTN
+# – Introducción a Java
 
-Este repositorio contiene los ejercicios prácticos realizados en NetBeans como parte del trabajo práctico de la asignatura **Programación II** (UTN). Los ejercicios abordan conceptos fundamentales de Java, desde la verificación del entorno hasta clases, entrada por teclado y operaciones con consola.
+Esta carpeta contiene los primeros ejercicios prácticos realizados en Java como parte del módulo de introducción a la programación. El objetivo es familiarizarse con el entorno de desarrollo, la sintaxis básica del lenguaje y los primeros conceptos de entrada/salida por consola.
 
-## 📂 Contenido
+---
 
-Carpeta: `01_Introduccion_a_Java`
+# - Contenido
 
-Incluye los siguientes ejercicios:
+- **Ejercicio 01 – Verificación del entorno**  
+  Instalación de Java JDK y NetBeans. Configuración del entorno de trabajo y captura de pantalla del IDE.
 
-1. **Ejercicio 1 – Verificación del entorno**  
-   Instalación de Java JDK y NetBeans, configuración del IDE y captura del entorno.
+- **Ejercicio 02 – Hola Mundo**  
+  Creación de un programa básico que imprime un mensaje en consola.
 
-2. **Ej_02holaMundo**  
-   Primer programa en Java con salida en consola.
+- **Ejercicio 03 – MiNombre_MiVariable.java**  
+  Declaración de variables, escritura de datos en consola y captura de entrada del usuario con `Scanner`.
 
-3. **Ej_03Declaracion_Varibles_Java**  
-   Declaración y asignación de variables tipos de datos en Java.
+- **Ejercicio 04 – MiEdad.java**  
+  Captura de datos del usuario (edad) mediante `Scanner` y visualización en consola.
 
-4. **Ej_04Solicitar_Usuario**  
-   Captura de datos del usuario mediante usando `Scanner`.
+- **Ejercicio 05 – Análisis de código**  
+  Lectura y comprensión de código fuente. Identificación de estructura, errores y lógica aplicada.
 
-5. **Ej_05Solicitar_Numeros**  
-   Entrada de números por teclado y operaciones básicas.
+- **Ejercicio 06 – Corrección de código**  
+  Diagnóstico y corrección de errores en código Java. Aplicación de buenas prácticas.
 
-6. **Ej_06Muestre_msj_consola**  
-   Imprimimos msj en consola usando caracteres especiales.
+- **Ejercicio 07 – Validación de resultados**  
+  Pruebas de ejecución, validación de salidas esperadas y comparación con consignas.
 
-7. **Ejercicio 7 – Analisis de codigo**  
-   Diferencia entre expresión e instrucción.
+---
 
-8. **Ej_08Division_Sol_inc**  
-   Modificación de división para que de solo de parte decimal u entero en caso de tener .
+## 🎯 Objetivo del módulo
 
-9. **Ejercicio 9 – Análisis y Corrección de código**  
-   Análisis línea por línea del estado de variables.
+- Configurar correctamente el entorno de desarrollo Java.
+- Comprender la estructura básica de un programa en Java.
+- Practicar entrada/salida por consola.
+- Iniciar el uso de variables, tipos de datos y estructuras simples.
 
-10. **Ejercicio 10 – Validación de resultados**  
-    Análisis de prueba de escritorio.
+---
+
+## 🛠️ Tecnologías utilizadas
+
+- **Lenguaje**: Java  
+- **IDE**: NetBeans  
+- **Entrada/Salida**: Consola estándar (`System.out.println`, `Scanner`)
+
+---
+
+## 📝 Notas
+
+- Cada ejercicio está documentado con comentarios en el código fuente.
+- Se recomienda ejecutar los programas en orden para seguir la progresión pedagógica.
+- Los archivos pueden incluir capturas, documentación adicional o correcciones iterativas.
