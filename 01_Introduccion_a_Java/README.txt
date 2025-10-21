@@ -44,10 +44,5 @@ Esta carpeta contiene los primeros ejercicios prácticos realizados en Java como
 - **IDE**: NetBeans  
 - **Entrada/Salida**: Consola estándar (`System.out.println`, `Scanner`)
 
----
 
-## 📝 Notas
 
-- Cada ejercicio está documentado con comentarios en el código fuente.
-- Se recomienda ejecutar los programas en orden para seguir la progresión pedagógica.
-- Los archivos pueden incluir capturas, documentación adicional o correcciones iterativas.

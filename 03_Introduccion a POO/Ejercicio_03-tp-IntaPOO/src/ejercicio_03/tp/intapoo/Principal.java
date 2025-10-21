@@ -17,7 +17,7 @@ public class Principal {
         l.setAutor("Bill Bryson");
         l.setAñoPublicacion(2003);
 
-        // Mostramos informacion del libro inicial-
+        // Mostramos informacion del libro inicial.
         System.out.println("Información inicial:");
         l.mostrarInfo();
 

@@ -56,13 +56,7 @@
 - **Entorno**: NetBeans / Visual Studio Code  
 - **Entrada/Salida**: Consola estándar (`System.out.println`, `Scanner`)
 
----
 
-## 📝 Notas
-
-- Cada carpeta contiene su propio código fuente y documentación complementaria.
-- Se recomienda seguir el orden numérico para respetar la progresión pedagógica.
-- Los ejercicios pueden incluir correcciones iterativas, pruebas y simulaciones.
 
 
 

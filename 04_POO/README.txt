@@ -53,13 +53,9 @@ La clase `Empleado` incluye:
 - **Entorno**: NetBeans / Visual Studio Code  
 - **Entrada/Salida**: Consola estándar (`System.out.println`, `Scanner`)
 
----
 
-## 📝 Notas
 
-- El código está comentado para facilitar la comprensión.
-- Se recomienda ejecutar `Main.java` para validar el comportamiento de la clase.
-- El diseño permite futuras extensiones como validaciones, simulaciones o integración con UML.
+
 
 
 
